@@ -1,2 +1,2 @@
 # JupyterNotebook
-An introductory course to the jupyter notebook 
+My journey of learning python for data science 
